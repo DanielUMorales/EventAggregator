@@ -31,3 +31,4 @@ And then implement method   OnEventHandler from ISubscriber interface for event 
 public void OnEventHandler(NewEvent e)
 {
    // ToDo: Process event
+
